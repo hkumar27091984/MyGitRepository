@@ -1,0 +1,10 @@
+[DEBUG] 2020-10-28 18:24:54.188 [main] Log4j - This is a debug message
+[INFO ] 2020-10-28 18:24:54.192 [main] Log4j - This is an info message
+[WARN ] 2020-10-28 18:24:54.193 [main] Log4j - This is a warn message
+[ERROR] 2020-10-28 18:24:54.193 [main] Log4j - This is an error message
+[FATAL] 2020-10-28 18:24:54.193 [main] Log4j - This is a fatal message
+[INFO ] 2020-10-28 18:56:39.923 [main] Log4j - Website is Opened on the browser
+[INFO ] 2020-10-28 18:59:33.158 [main] Log4j - Website is Opened on the browser
+[INFO ] 2020-10-28 20:09:22.366 [main] Log4j - Website is Opened on the browser
+[INFO ] 2020-10-29 09:41:30.550 [main] Log4j - Website is Opened on the browser
+[INFO ] 2020-10-29 09:46:02.540 [main] Log4j - Website is Opened on the browser
